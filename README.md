@@ -16,4 +16,3 @@ Visual feedback for password strength on an image based on [Colibro's sign up fo
 - [Pixelate](http://jsfiddle.net/u6apxgfk/390/) by Ken Fyrstenberg, Epistemex, License: [CC BY 3.0]
 
 (https://creativecommons.org/licenses/by/3.0/)
-- [Fullscreen image in Canvas](https://codepen.io/bassta/pen/OPVzyB) by Chrysto Panayotov
